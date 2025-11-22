@@ -5,12 +5,18 @@ Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
 
+
+![WhatsApp Image 2025-11-21 at 15 13 13_1f032dea](https://github.com/user-attachments/assets/3cb3bfd3-635e-43bc-b19e-6ad092a30d4c)
+![WhatsApp Image 2025-11-21 at 15 13 31_c7da9341](https://github.com/user-attachments/assets/4fbae264-4372-42df-bcc2-c97454dad153)
+
+
+
 **Mathematical Calculation**
 
 <img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/b6c74464-e862-4d26-be7c-e76738107067" />
 
 Width of the quarter wave line=1.138 mmWidth of the stripline=2.93 mm
-Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm
+Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm 
 Length of the quarter wave line = 18mmLamda g =72 , Lamda not=128
 Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4 Ghzc, Ε eff=3.024
 
@@ -41,6 +47,8 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 **Conclusion:**
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
+
+
 
 
 
